@@ -1,2 +1,2 @@
-# WAF-SR
-This is the code for the paper "Weight Adjustment Framework for Self-Attention Sequential Recommendation"
+# Weight Adjustment Framework for Self-Attention Sequential Recommendation
+Our code is built on [AC-TSR](https://github.com/AIM-SE/AC-TSR).
