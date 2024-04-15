@@ -17,3 +17,5 @@ Our code is built on [AC-TSR](https://github.com/AIM-SE/AC-TSR). Relevant materi
 ```
 bash scripts/run.sh amazon-beauty
 ```
+# Acknowledgements
+This repository is based on [Recbole](https://github.com/RUCAIBox/RecBole) and [AC-TSR](https://github.com/AIM-SE/AC-TSR).
