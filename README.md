@@ -11,7 +11,24 @@ Our code is built on [AC-TSR](https://github.com/AIM-SE/AC-TSR). Relevant materi
 
 # Usage
 
-* Download datasets from  [Google Drive](https://drive.google.com/drive/folders/1ahiLmzU7cGRPXf5qGMqtAChte2eYp9gI).
+* Download datasets from  [Google Drive](https://drive.google.com/drive/folders/1ahiLmzU7cGRPXf5qGMqtAChte2eYp9gI). And put the files in ./dataset/ like the following.
+
+```
+$ tree
+.
+├── Amazon_Beauty
+│   ├── Amazon_Beauty.inter
+│   └── Amazon_Beauty.item
+├── Amazon_Toys_and_Games
+│   ├── Amazon_Toys_and_Games.inter
+│   └── Amazon_Toys_and_Games.item
+└── yelp
+    ├── README.md
+    ├── yelp.inter
+    ├── yelp.item
+    └── yelp.user
+```
+
 * run the following command to run WAF-SR on a specific dataset.
 
 ```
